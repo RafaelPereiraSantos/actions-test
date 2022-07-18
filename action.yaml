@@ -1,0 +1,7 @@
+name: 'action-test'
+description: 'action-test'
+runs:
+  using: 'composite'
+  steps:
+    - run: go run main.go
+      shel: bash
