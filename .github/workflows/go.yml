@@ -19,4 +19,4 @@ jobs:
         go-version: 1.18
 
     - name: Run custom action
-      uses: RafaelPereiraSantos/action-test@v1.0
+      uses: RafaelPereiraSantos/actions-test@v1.0
